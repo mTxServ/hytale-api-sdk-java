@@ -1,4 +1,4 @@
-# sHytale Official API - JAVA SDK
+# Hytale Official API - JAVA SDK
 
 Hytale Official API - JAVA SDK
 
@@ -97,7 +97,7 @@ public class ArticlesApiExample {
 
 ## Documentation for API Endpoints
 
-All URIs are relative to *http://hytale.com/api*
+All URIs are relative to *https://www.hytale.com/api*
 
 Class | Method | HTTP request | Description
 ------------ | ------------- | ------------- | -------------
