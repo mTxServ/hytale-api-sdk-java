@@ -1,10 +1,6 @@
-# swagger-java-client
+# sHytale Official API - JAVA SDK
 
-Hytale API
-- API version: 1.0
-  - Build date: 2019-04-26T16:07:33.554Z
-
-Hytale Official API
+Hytale Official API - JAVA SDK
 
   For more information, please visit [https://hytale.game](https://hytale.game)
 
@@ -126,8 +122,3 @@ Authentication schemes defined for the API:
 ## Recommendation
 
 It's recommended to create an instance of `ApiClient` per thread in a multithreaded environment to avoid any potential issues.
-
-## Author
-
-
-
