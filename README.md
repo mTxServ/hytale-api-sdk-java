@@ -3,7 +3,7 @@
 Hytale Official API - JAVA SDK
 
 Created by [mTxServ](https://mtxserv.com) and [Hytale.game](https://hytale.game).
-With this SDK, you can consume the official Hytale API in PHP.
+With this SDK, you can consume the official Hytale API in Java.
 
 
 ## Requirements
